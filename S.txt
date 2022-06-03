@@ -1,20 +1,23 @@
 [Script Info]
-Title: [Erai-raws] A Certain Scientific Railgun S02E23 ara
+; This is an Advanced Sub Station Alpha v4+ script.
+;
+; Advanced Sub Station Alpha script format developed by #Anime-Fansubs@EfNET
+;
+; Note: This file was saved by MPC-HC.
+;
 ScriptType: v4.00+
-WrapStyle: 0
+Collisions: Normal
+ScaledBorderAndShadow: Yes
 PlayResX: 1280
 PlayResY: 720
-Video Zoom Percent: 1
-Scroll Position: 0
-Active Line: 0
-ScaledBorderAndShadow: yes
+Timer: 100.0000
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Open Sans Semibold,45,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,10,10,15,1
+Style: Default,Open Sans Semibold,45,&H00ffffff,&H000000ff,&H00020713,&H00000000,-1,0,0,0,100.00,100.00,0.00,0.00,1,1.70,0.00,2,10,10,15,1
 
 [Events]
-Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:02.12,0:00:05.08,Default,,0000,0000,0000,,‫"ميساكا ميكوتو"‬\N‫التي ظنّت أن حياتها عادت إلى طبيعتها،‬
 Dialogue: 0,0:00:05.17,0:00:06.33,Default,,0000,0000,0000,,‫يزعجها الظلام مرة أخرى.‬
 Dialogue: 0,0:00:06.92,0:00:10.42,Default,,0000,0000,0000,,‫منظمة غامضة تسعى وراء بقايا "مخطط الشجرة".‬
@@ -117,7 +120,7 @@ Dialogue: 0,0:08:55.86,0:08:58.99,Default,,0000,0000,0000,,‫قد لا تقتص
 Dialogue: 0,0:08:59.45,0:09:02.58,Default,,0000,0000,0000,,‫لم ينبغي أن يكونوا بشراً؟‬
 Dialogue: 0,0:09:03.50,0:09:06.08,Default,,0000,0000,0000,,‫أريد أن أعرف الإجابة.‬
 Dialogue: 0,0:09:06.75,0:09:08.54,Default,,0000,0000,0000,,‫ولذلك سأستخدم...‬
-Dialogue: 0,0:09:09.17,0:09:13.97,Default,,0000,0000,0000,,‫هذا "الحطام"  لصناعة "مخطط شجرة" جديد!‬
+Dialogue: 0,0:09:09.17,0:09:13.97,Default,,0000,0000,0000,,‫هذا "الحطام"  لصناعة "مخطط شجرة" جديد!‬
 Dialogue: 0,0:09:16.30,0:09:18.55,Default,,0000,0000,0000,,‫لم تفعلين ذلك فجأة؟‬
 Dialogue: 0,0:09:19.22,0:09:20.64,Default,,0000,0000,0000,,‫اتركيني!‬
 Dialogue: 0,0:09:20.93,0:09:24.06,Default,,0000,0000,0000,,‫أعني، أنا آسف! اتركيني أرجوك!‬
