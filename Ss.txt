@@ -17,7 +17,8 @@ Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour,
 Style: Default,Open Sans Semibold,45,&H00ffffff,&H000000ff,&H00020713,&H00000000,-1,0,0,0,100.00,100.00,0.00,0.00,1,1.70,0.00,2,10,10,15,1
 
 [Events]
-Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, TextDialogue: 0,0:00:31.00,0:00:34.25,Default,,0,0,0,,‫مع انطلاق مهرجان "دايهاسي" الرياضي،‬\N‫تمتلئ "مدينة الأكاديميّة" بالنشاط‬
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:31.00,0:00:34.25,Default,,0,0,0,,‫مع انطلاق مهرجان "دايهاسي" الرياضي،‬\N‫تمتلئ "مدينة الأكاديميّة" بالنشاط‬
 Dialogue: 0,0:00:34.54,0:00:36.84,Default,,0,0,0,,‫واستغلال تلك الفرصة،‬\N‫للمتاجرة بـ"سيف الطعنة"،‬
 Dialogue: 0,0:00:36.92,0:00:39.67,Default,,0,0,0,,‫سلاح قادر على قتل القدّيسين بضربة واحدة.‬
 Dialogue: 0,0:00:40.13,0:00:42.43,Default,,0,0,0,,‫اسم المبعوثة هو "أوريانا طومسون".‬
